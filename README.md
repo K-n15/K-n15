@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=speech&color=auto&height=300&section=header&text=Welcome&animation=fadeIn&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Welcome&animation=fadeIn&fontSize=70)
 
 ```yaml
 Name : Theepapon Khwanna
