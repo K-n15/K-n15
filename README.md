@@ -15,7 +15,7 @@ Field_of_Interest : [
 ]
 ```
 
-<h2>Tools/Framework/PLatform is use and learned</h2>
+<h2>Tools/Framework/Platform/Language I use and learned</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" width="45" height="45" />
