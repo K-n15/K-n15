@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Greetings&fontSize=90" />
 ```yaml
 Name : Theepapon Khwanna
 Living : Bangkok, Thailand
