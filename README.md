@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**K-n15/K-n15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+Name : Theepapon Khwanna
+Living : Bangkok, Thailand
+Current_Status : Undergraduate Bachelor Degree at KMITL
+Education : [
+  B.Eng Software Engineer KMITL
+]
+Field_of_Interest : [
+  DevOps,
+  Web Development,
+  Cloud Engineering,
+  UI/UX
+]
