@@ -1,13 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
-Name : Theepapon Khwanna
-Living : Bangkok, Thailand
-Current_Status : Undergraduate Bachelor Degree at KMITL
-Education : [
-  B.Eng Software Engineer KMITL
-]
-Field_of_Interest : [
-  DevOps,
-  Web Development,
-  Cloud Engineering,
-  UI/UX
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Greeting and Welcome!&fontSize=90" />
+Name : Theepapon Khwanna<br>
+Living : Bangkok, Thailand<br>
+Current_Status : Undergraduate Bachelor Degree at KMITL<br>
+Education : [<br>
+  B.Eng Software Engineer KMITL<br>
+]<br>
+Field_of_Interest : [<br>
+  DevOps,<br>
+  Web Development,<br>
+  Cloud Engineering,<br>
+  UI/UX<br>
 ]
