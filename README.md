@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=Welcome&animation=fadeIn&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=Welcome&animation=fadeIn&fontSize=70)
 
 ```yaml
 Name : Theepapon Khwanna
@@ -10,8 +10,7 @@ Education : [
 Field_of_Interest : [
   DevOps,
   Web Development,
-  Cloud Engineering,
-  UI/UX
+  Cloud Engineering
 ]
 ```
 
